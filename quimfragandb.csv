@@ -13,7 +13,7 @@ https://doi.org/10.1021/acs.jcim.0c01288,Carbon Dioxide,dioxido de carbono,CARD8
 https://doi.org/10.1021/acs.jcim.0c01288,Adipic acid,acido adipico,ADI882023,balsámico,hexanedioic acid,124-04-09,O=C(O)CCCCC(=O)O
 https://doi.org/10.1021/acs.jcim.0c01288,clortetrin,clortetrin,CLO882023,balsámico,"(4S,4aS,5aS,6S,12aR)-7-chloro-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide;hydrochloride",64-73-3,CN(C)C1C2CC3C(C4=C(C=CC(=C4C(=C3C(=O)C2(C(=C(C1=O)C(=O)N)O)O)O)O)Cl)O.Cl
 https://doi.org/10.1021/acs.jcim.0c01288,Propionaldehyde,propionaldehído,PRO882023,tierroso,propanal,123-38-6,CCC=O
-https://doi.org/10.1021/acs.jcim.0c01288,,dipropildisulfito,,tierroso,,,CCCSSCCC
+https://doi.org/10.1021/acs.jcim.0c01288,,dipropildisulfito,DIP882023,tierroso,,,CCCSSCCC
 https://doi.org/10.1021/acs.jcim.0c01288,2-Methoxy-3-methylpyrazine,,MET882023,tierroso,2-Methoxy-3-methylpyrazine,2847-30-5,CC1=NC=CN=C1OC
 https://doi.org/10.1021/acs.jcim.0c01288,1-octanol,,OCT882023,floral,octan-1-ol,111-87-5,CCCCCCCCO
 "DOI: 10.1021/acs.jcim.0c01288, 
@@ -65,7 +65,7 @@ https://doi.org/10.1016/j.cels.2019.02.009,benzophenone,,BEN092023,,,,O=C(c1cccc
 https://doi.org/10.1016/j.cels.2019.02.009,piperonal,,PIP092023,,,,O=Cc2ccc1OCOc1c2
 10.1016/j.jfoodeng.2017.12.020 ,menthol,mentol,MEN202023,,,,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O
 DOI: 10.1016/j.yrtph.2021.104964,perilla alcohol,alcohol perilílico,PER642023,origen de la ruta metabólica metavanalato,"p-mentha-1,8-dien-7-ol",,C=C(C)C1C/C=C(O)\CC1
-DOI: 10.1016/j.yrtph.2021.104964,Basic Blue 124,,,,3-Amino-7-(dimethylamino)-2- methoxyphenoxazin-5-ium chloride,,COc3cc2nc1ccc(N(C)C)cc1[o+]c2cc3N
+DOI: 10.1016/j.yrtph.2021.104964,Basic Blue 124,,3AMIN642023,,3-Amino-7-(dimethylamino)-2- methoxyphenoxazin-5-ium chloride,,COc3cc2nc1ccc(N(C)C)cc1[o+]c2cc3N
 DOI: 10.1016/j.yrtph.2021.104964,DAIDZEIN,daidzeina,DIA642023,,7-Hydroxy-3-(4-hydroxyphenyl) chromen-4-one,486-66-8,COc1cc(O)ccc1C=O.C=C(C)c1ccc(O)cc1
 DOI: 10.1016/j.yrtph.2021.104964,ASCORBIC ACID,ácido ascórbico,ASC642023,,"5-((s)-1,2-dihidroxietil)-3,4-dihidroxifuran-2(5H)-ona",50-81-7,[H][C@]1([C@H](O)CO)OC(=O)/C(O)=C1/O
 DOI: 10.1016/j.yrtph.2021.104964,FORMONONETIN,formoteína,FOR642023,,7-hydroxy-3-(4-methoxyphenyl)chromen-4-one,485-72-3,COc3ccc(c2coc1cc(O)ccc1c2=O)cc3
@@ -78,7 +78,7 @@ DOI: 10.1016/j.yrtph.2021.104964,1-PHENYLETHYL-ALCOHOL,,PHEOH642023,,,,C[C@@H](O
 DOI: 10.1016/j.yrtph.2021.104964,PHENYLETHYL-ACETATE,,PHEAC642023,,,,CC(=O)OC(C)c1ccccc1
 DOI: 10.1016/j.yrtph.2021.104964,ACETOPHENONE,acetofenona,ACE642023,,,,CC(=O)c1ccccc1
 DOI: 10.1016/j.yrtph.2021.104964,(Z)-3-HEXENYL-ACETATE,,HEX642023,,,,CC/C=C\CCOC(C)=O
-DOI: 10.1016/j.yrtph.2021.104964,2-PHENYLETHYL-ALCOHOL,alcohol fenetílico,,,,,OCCc1ccccc1
+DOI: 10.1016/j.yrtph.2021.104964,2-PHENYLETHYL-ALCOHOL,alcohol fenetílico,2PHE642023,,,,OCCc1ccccc1
 DOI: 10.1016/j.yrtph.2021.104964,1-OCTEN-3-OL,,OCT642023,,,,[H][C@](O)(C=C)CCCCC
 DOI: 10.1016/j.yrtph.2021.104964,LIMONENE,,LIM642023,,,,C=C(C)[C@H]1C/C=C(C)\CC1
 DOI: 10.1016/j.yrtph.2021.104964,ETHYL-CINNAMATE,etilo cinamato,ETHCIN642023,,,,CCOC(=O)/C=C/c1ccccc1
@@ -90,19 +90,19 @@ DOI: 10.1016/j.yrtph.2021.104964,(E)-LINALOL-OXIDE,,LIN642023,,,,CC(C)(O)[C@@H]1
 "DOI: 10.1016/j.yrtph.2021.104964
 10.1038/s41598-022-07840-x",(E)-LINALOOL-OXIDE ,,LINO642023,,,,CC(C)(O)[C@@H]1CC[C@](C)(O1)C=C
 DOI: 10.1016/j.yrtph.2021.104964,CONNAMIC-ALDEHYDE,cinamaldehído,CON642023,,,,O=C/C=C/c1ccccc1
-DOI: 10.1016/j.yrtph.2021.104964,(Z)-LINALOL-OXIDE,,,,,,CC(C)(O)[C@H]1CC[C@](C)(O1)C=C
+DOI: 10.1016/j.yrtph.2021.104964,(Z)-LINALOL-OXIDE,,LINZ642023,,,,CC(C)(O)[C@H]1CC[C@](C)(O1)C=C
 DOI: 10.1016/j.yrtph.2021.104964,(Z)-LINALOOL-OXIDE,,,,,,CC(C)(O)[C@H]1CC[C@](C)(O1)C=C
 DOI: 10.1016/j.yrtph.2021.104964,BENZYL-ALCOHOL,alcohol bencílico,BEN642023,,,,OCc1ccccc1
 DOI: 10.1016/j.yrtph.2021.104964,METHYL-CINNAMATE,metil cinamato,METCIN642023,,,,COC(=O)/C=C/c1ccccc1
 DOI: 10.1016/j.yrtph.2021.104964,COUMARIN,cumarina,COU642023,,,,C=c2ccc1ccccc1o2
 DOI: 10.1016/j.yrtph.2021.104964,CINNAMYL-HEXANOATE,cinamil hexanoato,CIN642023,fruity green spicy,[(E)-3-phenylprop-2-enyl] hexanoate,6994-20-3,CCCCCC(=O)OCC=CC1=CC=CC=C1
-DOI: 10.1016/j.yrtph.2021.104964,LINALYL-ACETATE,acetato de linalilo,,,,,C=CC(C)(CC/C=C(C)/C)OC(C)=O
+DOI: 10.1016/j.yrtph.2021.104964,LINALYL-ACETATE,acetato de linalilo,LIN642023,,,,C=CC(C)(CC/C=C(C)/C)OC(C)=O
 DOI: 10.1016/j.yrtph.2021.104964,BETA-CAROTENE,betacaroteno,BET642023,,,,C/C(=C\C=C\C=C(C)\C=C\C=C(C)\C=C\C1=C(C)\CCCC1(C)C)/C=C/C=C(C)/C=C/C2=C(C)/CCCC2(C)C
 DOI: 10.1016/j.yrtph.2021.104964,OCIMENE,,OCI642023,,(e)-Ocimene,,CC(C)=CC\C=C(/C)C=C
 DOI: 10.1016/j.yrtph.2021.104964,(E)-2-HEXENOL,,HEX642023,,E-2-Hexen-1-ol,,CCC\C=C\CO
-https://doi.org/10.1021/acs.jafc.1c04195,ethyl 3-methylbutanoate,,,fruity,Ethyl 3-methyl butanoate,108-64-5,CCOC(=O)CC(C)C
+https://doi.org/10.1021/acs.jafc.1c04195,ethyl 3-methylbutanoate,,ETH952023,fruity,Ethyl 3-methyl butanoate,108-64-5,CCOC(=O)CC(C)C
 https://doi.org/10.1021/acs.jafc.1c04195,2-acetylthiazole,,ACETAZ952023,grain-like,,,CC(=O)/C1=N/CCS1
-https://doi.org/10.1021/acs.jafc.1c04195,"3-methylnonane-2,4-dione",,,hay,,,CCCCCC(=O)C(C)C(C)=O
+https://doi.org/10.1021/acs.jafc.1c04195,"3-methylnonane-2,4-dione",,3MET952023,hay,,,CCCCCC(=O)C(C)C(C)=O
 https://doi.org/10.1021/acs.jafc.1c04195,2-phenylethanol,,PHEN952023,"floral, rose",,,OCCc1ccccc1
 https://doi.org/10.1021/acs.jafc.1c04195,β-damascenone,,DAM952023,cooked apple,,,C/C=C/C(=O)/C1=C(C)/C=C\CC1(C)C
 https://doi.org/10.1021/acs.jafc.1c04195,oct-1-en-3-one,,OCT952023,"earthy, mushroom",1-octen-3-one,4312-99-6,CCCCCC(=O)C=C
@@ -149,7 +149,7 @@ https://doi.org/10.1021/acs.jafc.1c04195,vanillin,,VAN952023,vanilla,4-hydroxy-3
 10.1038/s41598-021-89969-9,"2, 3-Butandione",,BUTDI992023,"Butter, perspiration","butane-2,3-dione",431-03-8,CC(=O)C(=O)C
 10.1038/s41598-021-89969-9,Citronellal,,CIT992023,Lemon,"3,7-dimethyloct-6-enal",106-23-0,CC(CCC=C(C)C)CC=O
 10.1038/s41598-021-89969-9,cis-3-Hexenol,,HEX992023,Grass,(Z)-hex-3-en-1-ol,928-96-1,CCC=CCCO
-10.1038/s41598-021-89969-9,1-Butanol,,,"Cheese, sweat",butan-1-ol,71-36-3,CCCCO
+10.1038/s41598-021-89969-9,1-Butanol,,1BUT992023,"Cheese, sweat",butan-1-ol,71-36-3,CCCCO
 10.1038/s41598-021-89969-9,4-Ethyl octanoic acid,,ETH992023,Goaty,4-ethyloctanoic acid,16493-80-4,CCCCC(CC)CCC(=O)O
 10.1038/s41598-021-89969-9,β-ionone,,ION992023,Lilac,"(E)-4-(2,6,6-trimethylcyclohexen-1-yl)but-3-en-2-one",79-77-6,CC1=C(C(CCC1)(C)C)C=CC(=O)C
 10.1038/s41598-021-89969-9,2-Methyl propanal,,METPRO992023,Wet cereal or straw,2-methylpropanal,78-84-2,CC(C)C=O
